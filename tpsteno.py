@@ -3,8 +3,8 @@ from plover.system.english_stenotype import *
 KEYS = (
   '#-',
   "+-", 'K-', 'S-', 'P-', 'T-', 'R-', 'L-',
-  '*-',
   'I', 'E', 'Y', 'U',
+  '-*',
   '-R', '-L', '-N', '-F', '-G', '-P', '-T', '-S',
   '-D', '-Z'
 )
@@ -16,4 +16,4 @@ SUFFIX_KEYS = ("-D", "-Z")
 NUMBERS = {}
 NUMBER_KEY = None
 FERAL_NUMBER_KEY = False
-UNDO_STROKE_STENO = "*-"
+UNDO_STROKE_STENO = "-*"
