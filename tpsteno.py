@@ -9,7 +9,6 @@ KEYS = (
   '-D', '-Z'
 )
 
-## TODO orthography rules?
 IMPLICIT_HYPHEN_KEYS = ("I", "E", "Y", "U")
 ## Dunno what this even means
 SUFFIX_KEYS = ("-D", "-Z")
@@ -17,3 +16,5 @@ NUMBERS = {}
 NUMBER_KEY = None
 FERAL_NUMBER_KEY = False
 UNDO_STROKE_STENO = "-*"
+
+## Add Default keymaps
