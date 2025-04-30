@@ -1,7 +1,7 @@
 from plover.system.english_stenotype import *
 
 KEYS = (
-  '#-',
+  '#-', "^-",
   "+-", 'K-', 'S-', 'P-', 'T-', 'R-', 'L-',
   'I', 'E', 'Y', 'U',
   '-*',
