@@ -1,6 +1,6 @@
 # TPSteno
 
-Grahp's modified TPSteno layout.
+Grahp's modified [TPSteno](https://github.com/StrawberryTurtle/TPSteno) layout.
 
 Forked from https://github.com/sammdot/plover-stenotype-extended thx jen
 
