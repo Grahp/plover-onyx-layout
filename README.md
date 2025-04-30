@@ -7,7 +7,7 @@ Forked from https://github.com/sammdot/plover-stenotype-extended thx jen
 ## Layout
 
 ```
-##KTR  *RNGTD
-^+SPL  *LFPSZ
+##KPR  *RNGTD
+^+STL  *LFPSZ
     IE YU
 ```
