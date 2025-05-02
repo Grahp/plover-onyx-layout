@@ -3,13 +3,13 @@ from plover.system.english_stenotype import *
 KEYS = (
   '#-', "^-",
   "+-", 'K-', 'S-', 'P-', 'T-', 'R-', 'L-',
-  'I', 'E', 'Y', 'U',
+  'J', 'E', 'I', 'U',
   '-*',
   '-R', '-L', '-N', '-F', '-G', '-P', '-T', '-S',
   '-D', '-Z'
 )
 
-IMPLICIT_HYPHEN_KEYS = ("I", "E", "Y", "U")
+IMPLICIT_HYPHEN_KEYS = ("J", "E", "I", "U")
 ## Dunno what this even means
 SUFFIX_KEYS = ("-D", "-Z")
 NUMBERS = {}
