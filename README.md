@@ -9,5 +9,5 @@ Forked from https://github.com/sammdot/plover-stenotype-extended thx jen
 ```
 ##KPR  *RNGTD
 ^+STL  *LFPSZ
-    IE YU
+    JE IU
 ```
