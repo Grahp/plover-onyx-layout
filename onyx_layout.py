@@ -11,7 +11,7 @@ KEYS = (
 )
 
 IMPLICIT_HYPHEN_KEYS = ("J", "E", "I", "U")
-SUFFIX_KEYS = ("-V", "-D", "-Z", "-Y", "-W", "-DZ")
+SUFFIX_KEYS = ("-V", "-D", "-Z", "-Y", "-W", "-DZ", "-DZYW", "-ZW")
 NUMBERS = {}
 NUMBER_KEY = None
 FERAL_NUMBER_KEY = False
