@@ -6,13 +6,13 @@ KEYS = (
   '^-',
   'J', 'E', 'I', 'U',
   '-V',
-  '-R', '-L', '-N', '-F', '-G', '-P', '-T', '-S',
-  '-D', '-Z'
+  '-R', '-L', '-K', '-P', '-T', '-S',
+  '-D', '-Z', '-Y', '-W'
 )
 
 IMPLICIT_HYPHEN_KEYS = ("J", "E", "I", "U")
 ## Dunno what this even means
-SUFFIX_KEYS = ("-D", "-Z")
+SUFFIX_KEYS = ("-V", "-D", "-Z", "-Y", "-W")
 NUMBERS = {}
 NUMBER_KEY = None
 FERAL_NUMBER_KEY = False
