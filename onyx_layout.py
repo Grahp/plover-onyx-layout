@@ -13,6 +13,8 @@ KEYS = (
 IMPLICIT_HYPHEN_KEYS = ("J", "E", "I", "U")
 SUFFIX_KEYS = ("-V", "-D", "-Z", "-Y", "-W")
 NUMBERS = {}
+NUMBER_KEY = None
+FERAL_NUMBER_KEY = False
 UNDO_STROKE_STENO = "-V"
 
 ## Add Default keymaps
