@@ -1,15 +1,9 @@
-# Onyx Layout
+# Onyx Layout Plover Plugin
 
-The layout used by [Onyx](https://github.com/Grahp/Onyx), modified from the [TPSteno layout](https://github.com/StrawberryTurtle/TPSteno).
+Plover plugin for the [Onyx](https://github.com/Grahp/Onyx) Theory layout, modified from the [TPSteno layout](https://github.com/StrawberryTurtle/TPSteno).
 
 Forked from https://github.com/sammdot/plover-stenotype-extended thx jen
 
-## Layout
+## Layout Diagram
 
-```
-AAKPR^ VRKTDY
-#+STL^ VLPSZW
-    JE IU
-```
-
-See https://grahp.dev/onyx-layout for more info about the layout.
+![Onyx Layout Graphic](images/layout-graphic.png)
