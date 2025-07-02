@@ -1,8 +1,6 @@
 # Onyx Layout Plover Plugin
 
-Plover plugin for the [Onyx](https://github.com/Grahp/Onyx) Theory layout, modified from the [TPSteno layout](https://github.com/StrawberryTurtle/TPSteno).
-
-Forked from https://github.com/sammdot/plover-stenotype-extended thx jen
+Plover plugin for [Onyx](https://github.com/Grahp/Onyx)'s layout, modified from the [TPSteno layout](https://github.com/StrawberryTurtle/TPSteno).
 
 If you're using Javelin, see https://github.com/Grahp/javelin-onyx-layout
 
